@@ -20,5 +20,12 @@ You can download the following session PowerPoints, listed in the order that the
 
 [Session 6:Machine Learning with Microsoft Azure](Session 6 - Machine Learning with Microsoft Azure.pptx?raw=true)
 
+[Session 7:Doing Spark on Microsoft Azure](Session 7 - Doing Spark on Microsoft Azure.pptx?raw=true)
+
+[Session 8:Running Hadoop Clusters on Microsoft Azure](Session 8 - Running Hadoop Clusters on Microsoft Azure.pptx?raw=true)
+
+[Session 9:Cognititive Services and Bots Framewokr](Session 9 - Cognitive Services and Bots Framework.pptx?raw=true)
+
+
 
 
