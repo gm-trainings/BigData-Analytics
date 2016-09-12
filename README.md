@@ -8,9 +8,9 @@ You will need to register for each one to view the material.
 ## Presentation
 You can download the following session PowerPoints, listed in the order that they were delivered.
 
-[Session 1:Digital Transformation & Analytics](Session 1 - Digital Transformation and Analytics.pptx?raw=true)
+[Session 1:Digital Transformation & Analytics](Session 1 -Digital Transformation and Analytics.pptx?raw=true)
 
-[Session 2:Understanding Cortanna Intelligence Suite](Session 2 - Cortana Intelligence Suite Overview2.pptx?raw=true)
+[Session 2:Understanding Cortanna Intelligence Suite](Session 2 - Cortana Intelligence Suite Overview.pptx?raw=true)
 
 [Session 3:Data Orchestration with Microsoft Azure](Session 3 - Data Orchestration with Microsoft Azure.pptx?raw=true)
 
