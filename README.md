@@ -5,7 +5,6 @@ The AzureCAT GSI team conducted a 2-day Big Data & Advanced Analytics Workshop c
 The following file [Big Data & Analytics Workshop Sessions](BigData-AnalyticsWorkshop.docx) contains a link to all the workshop recordings
 You will need to register for each one to view the material.  Direct Links below
 
-Day 1
 Session 1	Digital Transformation & Analytics
 https://infopedia.eventbuilder.com/event?eventid=m3i8i7
 
@@ -21,7 +20,6 @@ https://infopedia.eventbuilder.com/event?eventid=m3d8t1
 Session 5	Using Microsoft Azure SQL Data Warehouse
 https://infopedia.eventbuilder.com/event?eventid=s3n6h8
 
-Day 2
 Session 6	Machine Learning in Microsoft Azure
 https://infopedia.eventbuilder.com/event?eventid=t7h4s9
 
