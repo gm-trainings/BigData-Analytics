@@ -9,3 +9,5 @@ You will need to register for each one to view the material.
 You can download the following session PowerPoints, listed in the order that they were delivered.
 
 [Session 1:Digital Transformation & Analytics](Digital Transformation and Analytics.pptx?raw=true)
+[Session 2:Understanding Cortanna Intelligence Suite](Cortana Intelligence Suite Overview2.pptx?raw=true)
+
