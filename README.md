@@ -24,7 +24,7 @@ You can download the following session PowerPoints, listed in the order that the
 
 [Session 8:Running Hadoop Clusters on Microsoft Azure](Session 8 - Running Hadoop Clusters on Microsoft Azure.pptx?raw=true)
 
-[Session 9:Cognititive Services and Bots Framewokr](Session 9 - Cognitive Services and Bots Framework.pptx?raw=true)
+[Session 9:Cognititive Services and Bots Framework](Session 9 - Cognitive Services and Bots Framework .pptx?raw=true)
 
 
 
