@@ -1,3 +1,7 @@
+> **Update:** Hello! As of 1 January 2017 this content is no longer being actively managed and updated. It is provided as-is and may contain information that has changed. Any Issues will be addressed on a best-effort basis. Please see [Azure.com](http://www.azure.com) for the latest guidance. Thank you for your understanding.
+
+---
+
 # BigData-Analytics
 The AzureCAT GSI team conducted a 2-day Big Data & Advanced Analytics Workshop covering topics that included Cortana Intelligence Suite, Machine Learning, HDInsight, Azure Data Factory and running Apache Spark on Microsoft Azure.  The goal of the workshop was to strengthen ongoing engagements with different System Integrator’s - driving solutions and enabling offerings involving Big Data technologies on Azure.
 
